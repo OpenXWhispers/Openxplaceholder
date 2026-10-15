@@ -1,0 +1,36 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14"
+        fill="#30232D"/>
+
+  <circle cx="32" cy="32" r="23"
+          fill="none"
+          stroke="#B68F98"
+          stroke-width="1.2"/>
+
+  <!-- Crescent moon -->
+  <path d="M39 13
+           A14 14 0 1 0 51 35
+           A11 11 0 0 1 39 13Z"
+        fill="#E8D5C9"/>
+
+  <!-- Central celestial star -->
+  <path d="M25 22
+           C26.5 29 29 31 36 32
+           C29 33 26.5 35 25 42
+           C23.5 35 21 33 14 32
+           C21 31 23.5 29 25 22Z"
+        fill="#E8D5C9"/>
+
+  <!-- Small sparkles -->
+  <path d="M44 42
+           Q45 46 49 47
+           Q45 48 44 52
+           Q43 48 39 47
+           Q43 46 44 42Z"
+        fill="#B68F98"/>
+
+  <circle cx="16" cy="19" r="1.2"
+          fill="#B68F98"/>
+</svg>
